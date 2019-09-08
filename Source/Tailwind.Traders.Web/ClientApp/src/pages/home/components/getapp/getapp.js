@@ -17,8 +17,8 @@ const Getapp = ({ t }) => {
                     <a className="btn btn--getapp btn--getapp--left" href="https://aka.ms/tailwindtradersios">
                         <div className="getapp-btntext">Get it now for </div>iOS
                     </a>
-                    <a className="btn btn--getapp btn--getapp--right" href="../../../../assets/images/Mockup_Small.png">
-                        <div className="getapp-btntext" href="../../../../assets/images/Mockup_Small.png">Get it now for </div>Android
+                    <a className="btn btn--getapp btn--getapp--right" href="../../../../assets/images/二维码.png.png">
+                        <div className="getapp-btntext" href="../../../../assets/images/二维码.png.png">Get it now for </div>Android
                     </a>
                 </div>
             </header>
